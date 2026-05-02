@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-30",
+  "categories": [
+    {"id": "ai", "name": "AI Art", "emoji": "🤖", "gradient": ["#7C5CFF", "#FF4D8B"]},
+    {"id": "landscapes", "name": "Landscapes", "emoji": "🏔️", "gradient": ["#1A2980", "#26D0CE"]},
+    {"id": "nature", "name": "Nature", "emoji": "🌿", "gradient": ["#0F3D2E", "#27AE60"]},
+    {"id": "abstract", "name": "Abstract", "emoji": "🎨", "gradient": ["#5B247A", "#1BCEDF"]},
+    {"id": "anime", "name": "Anime", "emoji": "🎌", "gradient": ["#FF4D8B", "#7C5CFF"]},
+    {"id": "cars", "name": "Cars", "emoji": "🚗", "gradient": ["#1F1C2C", "#928DAB"]},
+    {"id": "islamic", "name": "Islamic", "emoji": "🕌", "gradient": ["#0F2027", "#2C5364"]},
+    {"id": "minimal", "name": "Minimal", "emoji": "✨", "gradient": ["#232526", "#414345"]},
+    {"id": "amoled", "name": "AMOLED", "emoji": "🌑", "gradient": ["#000000", "#1B1B27"]},
+    {"id": "space", "name": "Space", "emoji": "🪐", "gradient": ["#0F0C29", "#302B63"]},
+    {"id": "city", "name": "City", "emoji": "🏙️", "gradient": ["#141E30", "#243B55"]},
+    {"id": "art", "name": "Art", "emoji": "🖼️", "gradient": ["#FFAFBD", "#FFC3A0"]}
+  ]
+}
